@@ -4,7 +4,7 @@ It's NOT Useless
 
 ## Descripting
 
-This is an obj reliant product in relevance to it's nature.
+TRIAL 2
 
 ## Getting Started
 
