@@ -4,7 +4,7 @@ It's NOT Useless
 
 ## Descripting
 
-Zugswangg
+Zugthwang
 
 ## Getting Started
 
