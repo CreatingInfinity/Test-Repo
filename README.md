@@ -4,7 +4,11 @@ It's NOT Useless
 
 ## Descripting
 
+<<<<<<< HEAD
 Zugthwang
+=======
+Zugswanggcls
+>>>>>>> refs/remotes/origin/main
 
 ## Getting Started
 
