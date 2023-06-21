@@ -4,7 +4,7 @@ It's NOT Useless
 
 ## Descripting
 
-Zugthwang
+This is an obj reliant product in relevance to it's nature.
 
 ## Getting Started
 
