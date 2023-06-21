@@ -2,7 +2,7 @@
 
 It's NOT Useless
 
-## Description
+## Descripting
 
 An in-depth paragraph about your project and overview of use.
 
