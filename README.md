@@ -1,6 +1,6 @@
-# Testing Repository  <!--Changed For Act 3-->
+# Testing Repository  <!--Changed For Github Activity-->
 
-It's Usefull
+For the reconnaissance of heavenly order.
 
 ## Descripting
 
